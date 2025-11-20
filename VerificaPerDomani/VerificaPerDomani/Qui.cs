@@ -8,5 +8,9 @@ namespace VerificaPerDomani
 {
     internal class Qui
     {
+        public void StampaCiao()
+        {
+            Console.WriteLine("Ciao dal metodo StampaCiao di Qui!");
+        }
     }
 }
