@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificaPerDomani", "VerificaPerDomani\VerificaPerDomani.csproj", "{0F3EF39D-68FA-4E62-B4A0-4BC1352F458F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3EF39D-68FA-4E62-B4A0-4BC1352F458F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3EF39D-68FA-4E62-B4A0-4BC1352F458F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3EF39D-68FA-4E62-B4A0-4BC1352F458F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3EF39D-68FA-4E62-B4A0-4BC1352F458F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA1E3191-45CB-4E27-A875-699925BCDB31}
+	EndGlobalSection
+EndGlobal
